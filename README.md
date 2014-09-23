@@ -1,7 +1,11 @@
 ubuntu_setup
 ============
 
-This is the setup file for ubuntu environment
+This is the setup file for ubuntu environment. 
+It will 
+1. config git
+2. set VIM
+3. install nodejs
 
 
 ```
