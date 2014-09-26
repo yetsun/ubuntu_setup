@@ -26,6 +26,8 @@ sudo apt-get -y install npm
 #install mongodb
 sudo apt-get install -y mongodb-org
 
-
+#install pip, virutalenv for python
+sudo apt-get install -y python-pip
+sudo pip install virtualenv
 
 
